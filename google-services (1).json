@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "932057219576",
+    "project_id": "smartvest-gps",
+    "storage_bucket": "smartvest-gps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932057219576:android:3e147e65027940b769d60d",
+        "android_client_info": {
+          "package_name": "com.example.ch19_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932057219576-puifffidt05m7h6g78ud5rk0nomgj32t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ch19_map",
+            "certificate_hash": "d7085fd68b355f3c5fbb27b27d4fa898d8ff5a7e"
+          }
+        },
+        {
+          "client_id": "932057219576-7d166l3f5hd2mgkcb8elrv97954acoai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2uLvtcq6vDnFknLP_QpWxDwqWRGMffB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932057219576-7d166l3f5hd2mgkcb8elrv97954acoai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
