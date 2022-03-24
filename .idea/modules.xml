@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-76098533/TestProject.iml" filepath="$PROJECT_DIR$/.idea/modules/-76098533/TestProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-41933267/TestProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/-41933267/TestProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/843889426/TestProject.ch10_notification.iml" filepath="$PROJECT_DIR$/.idea/modules/843889426/TestProject.ch10_notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-598980436/TestProject.ch11_jetpack.iml" filepath="$PROJECT_DIR$/.idea/modules/-598980436/TestProject.ch11_jetpack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/83731724/TestProject.ch12_material.iml" filepath="$PROJECT_DIR$/.idea/modules/83731724/TestProject.ch12_material.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2067815405/TestProject.ch13_activity.iml" filepath="$PROJECT_DIR$/.idea/modules/-2067815405/TestProject.ch13_activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1417081838/TestProject.ch14_receiver.iml" filepath="$PROJECT_DIR$/.idea/modules/-1417081838/TestProject.ch14_receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-740481927/TestProject.ch15_outer.iml" filepath="$PROJECT_DIR$/.idea/modules/-740481927/TestProject.ch15_outer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/157074227/TestProject.ch15_service.iml" filepath="$PROJECT_DIR$/.idea/modules/157074227/TestProject.ch15_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1988883886/TestProject.ch16_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-1988883886/TestProject.ch16_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/591562491/TestProject.ch17_database.iml" filepath="$PROJECT_DIR$/.idea/modules/591562491/TestProject.ch17_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1110989905/TestProject.ch18_network.iml" filepath="$PROJECT_DIR$/.idea/modules/-1110989905/TestProject.ch18_network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestProject.ch19_map.iml" filepath="$PROJECT_DIR$/.idea/modules/TestProject.ch19_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2112356975/TestProject.ch20_firebase.iml" filepath="$PROJECT_DIR$/.idea/modules/2112356975/TestProject.ch20_firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1652231463/TestProject.ch6_view.iml" filepath="$PROJECT_DIR$/.idea/modules/1652231463/TestProject.ch6_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/106258955/TestProject.ch7_layout.iml" filepath="$PROJECT_DIR$/.idea/modules/106258955/TestProject.ch7_layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1439262426/TestProject.ch8_event.iml" filepath="$PROJECT_DIR$/.idea/modules/1439262426/TestProject.ch8_event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-407185171/TestProject.ch9_resource.iml" filepath="$PROJECT_DIR$/.idea/modules/-407185171/TestProject.ch9_resource.iml" />
+    </modules>
+  </component>
+</project>
